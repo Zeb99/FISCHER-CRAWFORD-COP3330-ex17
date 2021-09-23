@@ -2,8 +2,9 @@ package org.example;
 import java.util.Scanner;
 
 /**
- * Hello world!
- *
+ * BAC Calculator
+ * UCF cop3330 Fall 2021 Assignment 17 Solution
+ *  Copyright 2021 Zeb Fischer-Crawford
  */
 public class App 
 {
